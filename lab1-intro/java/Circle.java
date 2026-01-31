@@ -7,7 +7,7 @@ class Circle {
       System.out.println(c.circleLine(i));
     }
   }
-
+// edit made by student hamzah
   public Circle(int size) {
     this.size = size;
   }
